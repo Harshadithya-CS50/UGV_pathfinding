@@ -80,6 +80,3 @@ obstacle density can be changed in the code
 
 run_simulation(size=70, density='low')    # options: low, medium, high
 
-
-
-The total cost function:
